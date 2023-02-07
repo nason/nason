@@ -50,16 +50,8 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          # plugin_habits_charts_type: chartist
           # plugin_habits_trim: yes          
-
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines
-          plugin_lines: yes
-
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/reactions
-          plugin_reactions: yes
-          # plugin_reactions_limit: 100
-          plugin_reactions_details: percentage
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/stars
           plugin_stars: yes
