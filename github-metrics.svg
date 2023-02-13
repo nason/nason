@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netbox-community/netbox</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 20:31:55 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 21:28:00 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
