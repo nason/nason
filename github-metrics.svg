@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NetCoreTemplates/vue-mjs</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET 6.0 Simple, modern Vue 3 App using JS modules</div>
@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/prompt-engine</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for helping developers craft prompts for Large Language Models</div>
@@ -833,7 +833,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 25.1k out of 378m repositories</span>
+                                    <span class="gh">ranked 26.7k out of 378m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1491 stars</div>
                             </div>
@@ -885,7 +885,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2023, 11:03:41 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Feb 2023, 12:03:40 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
