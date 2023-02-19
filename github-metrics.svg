@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drifting-in-space/driftdb</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A real-time data backend for browser-based applications.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liftbridge-io/liftbridge</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight, fault-tolerant message streams.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usecakework/cakework</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build serverless async backends without cloud resources</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>memphisdev/memphis-broker</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-Generation Real-Time Data Processing Platform</div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2023, 11:03:33 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Feb 2023, 12:03:32 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
