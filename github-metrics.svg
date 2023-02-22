@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superfly/fly-log-shipper</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ship logs from fly to other providers</div>
@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BohdanPetryshyn/basti</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Basti is a CLI tool for securely accessing your DB instances and other AWS resources in private networks at almost no cost.</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2023, 04:03:58 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Feb 2023, 05:03:56 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
