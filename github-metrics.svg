@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superfly/fly-log-shipper</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ship logs from fly to other providers</div>
@@ -885,7 +885,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 17:03:27 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 18:03:25 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
