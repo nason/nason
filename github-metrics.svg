@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johndoe31415/hsmwiz</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HSMWiz is a frontend for OpenSC, pkcs11tool and pkcs15tool to ease handling of HSM smartcards</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CardContact/sc-hsm-embedded</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PKCS#11 and CSP-Minidriver library for the SmartCard-HSM and STARCOS based signature cards</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terranix/terranix</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">terranix is a terraform.json generator with a nix-like feeling</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hugolgst/nixos-raspberry-pi-cluster</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A user-guide to create a Raspberry Pi (3B+, 4) cluster under NixOS and managed by NixOps</div>
@@ -760,7 +760,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 51.6k out of 380m repositories</span>
+                                    <span class="gh">ranked 48.9k out of 380m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 205 times</div>
                             </div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2023, 11:04:20 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Feb 2023, 12:04:03 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
