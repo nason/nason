@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serokell/deploy-rs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple multi-profile Nix-flake deploy tool.</div>
@@ -766,7 +766,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 51.6k out of 381m repositories</span>
+                                    <span class="gh">ranked 51.7k out of 381m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 205 times</div>
                             </div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2023, 05:03:49 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Mar 2023, 06:03:40 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
