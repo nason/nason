@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johndoe31415/hsmwiz</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HSMWiz is a frontend for OpenSC, pkcs11tool and pkcs15tool to ease handling of HSM smartcards</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CardContact/sc-hsm-embedded</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PKCS#11 and CSP-Minidriver library for the SmartCard-HSM and STARCOS based signature cards</div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2023, 02:03:55 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Mar 2023, 03:04:24 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
