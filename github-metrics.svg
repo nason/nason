@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tremorlabs/tremor</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The React library to build dashboards fast.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>system-fonts/modern-font-stacks</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">System font stack CSS organized by typeface classification for every modern operating system</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/Industrial-IoT</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure Industrial IoT Platform</div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2023, 11:03:45 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Mar 2023, 12:03:47 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
