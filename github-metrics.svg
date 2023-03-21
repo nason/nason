@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>system-fonts/modern-font-stacks</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">System font stack CSS organized by typeface classification for every modern operating system</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/Industrial-IoT</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure Industrial IoT Platform</div>
@@ -845,7 +845,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 27.2k out of 386m repositories</span>
+                                    <span class="gh">ranked 25.5k out of 386m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1490 stars</div>
                             </div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2023, 11:04:54 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 21 Mar 2023, 12:03:55 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
