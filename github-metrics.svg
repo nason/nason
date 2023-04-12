@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alecbcs/fly-nextcloud</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Nextcloud Deployment &amp; Management System for Fly.io</div>
@@ -804,7 +804,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26.6k out of 392m repositories</span>
+                                    <span class="gh">ranked 27.5k out of 392m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2023, 00:03:18 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Apr 2023, 01:03:49 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
