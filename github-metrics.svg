@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiangolo/sqlmodel</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL databases in Python, designed for simplicity, compatibility, and robustness.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alecbcs/fly-nextcloud</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Nextcloud Deployment &amp; Management System for Fly.io</div>
@@ -804,7 +804,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 27.6k out of 394m repositories</span>
+                                    <span class="gh">ranked 25.9k out of 394m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2023, 01:03:37 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Apr 2023, 02:03:37 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
