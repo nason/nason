@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scottgerring/tailscale-exitnodes-cdk</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>snok/asgi-correlation-id</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Request ID propagation for ASGI apps</div>
@@ -892,7 +892,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2023, 02:04:12 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Apr 2023, 03:04:06 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
