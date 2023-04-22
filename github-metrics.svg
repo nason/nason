@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>highlight/highlight</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.</div>
@@ -892,7 +892,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 05:03:18 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Apr 2023, 06:03:16 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
