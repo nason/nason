@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liveblocks/liveblocks</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Liveblocks is a real-time collaboration infrastructure for developers.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreeOpcUa/opcua-asyncio</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OPC UA library for python &gt;= 3.7</div>
@@ -766,7 +766,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 53.6k out of 396m repositories</span>
+                                    <span class="gh">ranked 50.7k out of 396m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 204 times</div>
                             </div>
@@ -804,7 +804,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26k out of 396m repositories</span>
+                                    <span class="gh">ranked 27.7k out of 396m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -897,7 +897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2023, 01:03:29 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Apr 2023, 02:03:43 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
