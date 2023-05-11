@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fredck/lightener</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Magically control the state and brightness of lights in Home Assistant.</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2023, 01:03:51 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 May 2023, 02:03:54 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
