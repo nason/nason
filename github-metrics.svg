@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ners/trilby</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👒 Trilby creates an innovative, free, and open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nsjail</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AalianKhan/mushroom-strategy</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A strategy to automatically generate a dashboard using mushroom cards</div>
@@ -760,7 +760,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 54.2k out of 400m repositories</span>
+                                    <span class="gh">ranked 54.2k out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 203 times</div>
                             </div>
@@ -798,7 +798,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 27.9k out of 400m repositories</span>
+                                    <span class="gh">ranked 27.9k out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1490 stars</div>
                             </div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2023, 02:03:57 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 03:03:14 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
