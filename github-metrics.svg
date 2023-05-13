@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ners/trilby</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👒 Trilby creates an innovative, free, and open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nsjail</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2023, 17:03:18 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 18:03:08 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
