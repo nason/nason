@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Misterio77/nix-starter-configs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</div>
@@ -850,7 +850,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 11:03:39 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 12:03:53 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
