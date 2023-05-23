@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeterminateSystems/nix-policy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experiments with Nix and Open Policy Agent</div>
@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>y-crdt/ypy</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python bindings to y-crdt</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Misterio77/nix-starter-configs</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</div>
@@ -844,7 +844,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2023, 07:03:43 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 May 2023, 08:04:20 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
