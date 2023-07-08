@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zenstackhq/zenstack</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API &amp; hooks</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lirantal/dockly</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Immersive terminal interface for managing docker containers and services</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turing-machines/BMC-Firmware</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turing-pi BMC firmware</div>
@@ -442,7 +442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2023, 23:14:54 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jul 2023, 00:03:58 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
