@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lirantal/dockly</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Immersive terminal interface for managing docker containers and services</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/wireit</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.</div>
@@ -442,7 +442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2023, 01:03:52 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jul 2023, 02:03:58 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
