@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/guidance</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guidance language for controlling large language models.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>life4/deal</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SonarSource/eslint-plugin-sonarjs</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SonarJS rules for ESLint</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepset-ai/haystack</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -451,7 +451,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2023, 04:03:50 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Jul 2023, 05:03:19 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
