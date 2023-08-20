@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eliasbrange/aws-fastapi</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Different ways to deploy and run the FastAPI framework on AWS</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HBNetwork/python-decouple</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Strict separation of config from code.</div>
@@ -437,7 +437,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2023, 00:03:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Aug 2023, 01:03:30 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
