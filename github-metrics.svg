@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netdata/netdata</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor your servers, containers, and applications, in high-resolution and in real-time!</div>
@@ -579,7 +579,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 499k out of 123m users</span>
+                                    <span class="gh">ranked 499k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 57 public repositories</div>
                             </div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 58.3k out of 55.8m repositories</span>
+                                    <span class="gh">ranked 58.3k out of 54.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.2k out of 55.8m repositories</span>
+                                    <span class="gh">ranked 30.2k out of 54.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -821,7 +821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2023, 00:03:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 01:04:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
