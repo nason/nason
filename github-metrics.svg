@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dani-garcia/vaultwarden</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</div>
@@ -684,7 +684,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.3k out of 55.9m repositories</span>
+                                    <span class="gh">ranked 59.3k out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -763,7 +763,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.4k out of 55.9m repositories</span>
+                                    <span class="gh">ranked 30.4k out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -815,7 +815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2023, 21:13:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 22:03:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
