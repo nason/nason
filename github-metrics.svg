@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vpsfreecz/vpsadminos</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Host for Linux system containers based on NixOS, ZFS and LXC</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cleverca22/not-os</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.</div>
@@ -684,7 +684,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.3k out of 46.4m repositories</span>
+                                    <span class="gh">ranked 59.3k out of 54.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -763,7 +763,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.4k out of 46.4m repositories</span>
+                                    <span class="gh">ranked 30.4k out of 54.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -815,7 +815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 17:03:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2023, 18:03:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
