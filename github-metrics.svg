@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vpsfreecz/vpsadminos</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Host for Linux system containers based on NixOS, ZFS and LXC</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cleverca22/not-os</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>score-spec/spec</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.</div>
@@ -573,7 +573,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 503k out of 121m users</span>
+                                    <span class="gh">ranked 503k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 57 public repositories</div>
                             </div>
@@ -815,7 +815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 22:03:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2023, 23:03:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
