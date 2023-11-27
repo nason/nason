@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neuml/txtai</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JRMurr/NixOsConfig</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -679,7 +679,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.3k out of 45.7m repositories</span>
+                                    <span class="gh">ranked 59.3k out of 47.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -758,7 +758,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.4k out of 45.7m repositories</span>
+                                    <span class="gh">ranked 30.4k out of 47.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -810,7 +810,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2023, 07:04:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 08:05:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
