@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StanGirard/quivr</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local &amp; Private alternative to OpenAI GPTs &amp; ChatGPT powered by retrieval-augmented generation</div>
@@ -255,7 +255,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        961
+                                        962
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -579,7 +579,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 505k out of 126m users</span>
+                                    <span class="gh">ranked 505k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 57 public repositories</div>
                             </div>
@@ -731,7 +731,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.4k out of 48.6m repositories</span>
+                                    <span class="gh">ranked 59.5k out of 49.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.5k out of 48.6m repositories</span>
+                                    <span class="gh">ranked 28.7k out of 49.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -821,7 +821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 06:03:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 07:03:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
