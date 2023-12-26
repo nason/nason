@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/aws-control-tower-controls-terraform</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastructure as code (IaC) to implement and administer preventive, detective, and proactive security controls. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment.</div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.8k out of 56.4m repositories</span>
+                                    <span class="gh">ranked 59.8k out of 52.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -728,7 +728,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.8k out of 56.4m repositories</span>
+                                    <span class="gh">ranked 30.8k out of 52.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1487 stars</div>
                             </div>
@@ -780,7 +780,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 11:03:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 12:03:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
