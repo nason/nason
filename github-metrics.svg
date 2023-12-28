@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onedr0p/flux-cluster-template</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!</div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.8k out of 60.1m repositories</span>
+                                    <span class="gh">ranked 59.8k out of 51.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -728,7 +728,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.9k out of 60.1m repositories</span>
+                                    <span class="gh">ranked 30.9k out of 51.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1487 stars</div>
                             </div>
@@ -780,7 +780,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2023, 00:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 01:03:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
