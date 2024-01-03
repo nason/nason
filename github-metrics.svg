@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/data-on-eks</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bottlerocket-os/bottlerocket-ecs-updater</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A service to automatically manage Bottlerocket updates in an Amazon ECS cluster.</div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59.9k out of 48.4m repositories</span>
+                                    <span class="gh">ranked 59.9k out of 46.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -728,7 +728,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.9k out of 48.4m repositories</span>
+                                    <span class="gh">ranked 30.9k out of 46.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1487 stars</div>
                             </div>
@@ -780,7 +780,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 10:03:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 11:03:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
