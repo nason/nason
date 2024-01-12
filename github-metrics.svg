@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reproducible-containers/buildkit-cache-dance</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Save `RUN --mount=type=cache` caches on GitHub Actions ( Forked from https://github.com/overmindtech/buildkit-cache-dance )</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Skyscanner/gha-aws-oidc-sample</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enforcing per-repo privileges on AWS with GitHub Actions OIDC, without session tags</div>
@@ -685,7 +685,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 60k out of 50.9m repositories</span>
+                                    <span class="gh">ranked 60k out of 50.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -723,7 +723,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 31k out of 50.9m repositories</span>
+                                    <span class="gh">ranked 31k out of 50.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1487 stars</div>
                             </div>
@@ -775,7 +775,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 03:03:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 04:03:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
