@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pocketbase/pocketbase</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source realtime backend in 1 file</div>
@@ -685,7 +685,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 60k out of 58.6m repositories</span>
+                                    <span class="gh">ranked 60k out of 58.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -723,7 +723,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 31k out of 58.6m repositories</span>
+                                    <span class="gh">ranked 31k out of 58.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1487 stars</div>
                             </div>
@@ -775,7 +775,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2024, 16:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2024, 17:03:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
