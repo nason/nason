@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pathwaycom/pathway</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pathway is a high-throughput, low-latency data processing framework that handles live data &amp; streaming for you. Made with ❤️ for Python &amp; ML/AI developers.</div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 60.2k out of 80m repositories</span>
+                                    <span class="gh">ranked 60.2k out of 78.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -728,7 +728,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 31.7k out of 80m repositories</span>
+                                    <span class="gh">ranked 31.7k out of 78.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -821,7 +821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2024, 08:03:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2024, 09:03:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
