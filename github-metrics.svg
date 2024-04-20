@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/aws-lambda-web-adapter</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run web applications on AWS Lambda</div>
@@ -579,7 +579,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 522k out of 132m users</span>
+                                    <span class="gh">ranked 522k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 58 public repositories</div>
                             </div>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 60.2k out of 204m repositories</span>
+                                    <span class="gh">ranked 60.2k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 32.3k out of 204m repositories</span>
+                                    <span class="gh">ranked 32.3k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1488 stars</div>
                             </div>
@@ -821,7 +821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2024, 23:03:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2024, 00:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
