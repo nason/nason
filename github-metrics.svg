@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dhravya/markdowner</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast tool to convert any website into LLM-ready markdown data.</div>
@@ -725,7 +725,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 60.5k out of 203m repositories</span>
+                                    <span class="gh">ranked 60.5k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -763,7 +763,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 32.5k out of 203m repositories</span>
+                                    <span class="gh">ranked 32.5k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -815,7 +815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2024, 18:03:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 19:03:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
