@@ -330,7 +330,7 @@
                                         <span>starred 9 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.</div>
+                                <div class="field description">Docmost is an open source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -731,7 +731,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 61.3k out of 207m repositories</span>
+                                    <span class="gh">ranked 61.3k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 202 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 33.2k out of 207m repositories</span>
+                                    <span class="gh">ranked 33.2k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1490 stars</div>
                             </div>
@@ -821,7 +821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 08:04:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 09:05:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
