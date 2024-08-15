@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monzo/aws-nitro-util</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utilities to reproducibly build images for AWS Nitro Enclaves</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqldef/sqldef</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Idempotent schema management for MySQL, PostgreSQL, and more</div>
@@ -731,7 +731,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 64.2k out of 208m repositories</span>
+                                    <span class="gh">ranked 64.2k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 33.6k out of 208m repositories</span>
+                                    <span class="gh">ranked 33.6k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1490 stars</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2024, 14:04:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 15:03:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
