@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raystack/frontier</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data. (Open source alternative to Clerk)</div>
@@ -731,7 +731,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 64.2k out of 207m repositories</span>
+                                    <span class="gh">ranked 64.2k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -769,7 +769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 33.7k out of 207m repositories</span>
+                                    <span class="gh">ranked 33.7k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1490 stars</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2024, 01:03:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2024, 02:03:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
