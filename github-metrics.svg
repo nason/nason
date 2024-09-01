@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monzo/aws-nitro-util</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utilities to reproducibly build images for AWS Nitro Enclaves</div>
@@ -856,7 +856,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2024, 21:30:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2024, 22:27:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
