@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>substratusai/kubeai</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private Open AI on Kubernetes</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-cloudformation/rain</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A development workflow tool for working with AWS CloudFormation.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mem0ai/mem0</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Memory layer for your AI apps</div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2024, 14:03:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 15:03:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
