@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>substratusai/kubeai</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private Open AI on Kubernetes</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-cloudformation/rain</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A development workflow tool for working with AWS CloudFormation.</div>
@@ -731,7 +731,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 64.5k out of 209m repositories</span>
+                                    <span class="gh">ranked 64.5k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -810,7 +810,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 33.9k out of 209m repositories</span>
+                                    <span class="gh">ranked 33.9k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1491 stars</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2024, 04:04:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 05:03:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
