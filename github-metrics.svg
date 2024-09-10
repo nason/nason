@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjackson/remix-the-web</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source tools for Remix (or any framework!)</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>substratusai/kubeai</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private Open AI on Kubernetes</div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2024, 21:30:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 22:22:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
