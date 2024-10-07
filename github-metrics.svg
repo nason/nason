@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nberlee/talos</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Friendly fork for Turing RK1 on Talos</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Forceu/Gokapi</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.</div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 02:04:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 03:03:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
