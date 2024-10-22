@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Joshua-Riek/ubuntu-rockchip</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ubuntu for Rockchip RK35XX Devices</div>
@@ -612,7 +612,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 533k out of 147m users</span>
+                                    <span class="gh">ranked 533k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 60 public repositories</div>
                             </div>
@@ -732,7 +732,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 65.2k out of 221m repositories</span>
+                                    <span class="gh">ranked 65.2k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -811,7 +811,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 34.4k out of 221m repositories</span>
+                                    <span class="gh">ranked 34.4k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1491 stars</div>
                             </div>
@@ -863,7 +863,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 16:03:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 17:03:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
