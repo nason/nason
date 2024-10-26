@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devspace-sh/devspace</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.</div>
@@ -773,7 +773,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 65.3k out of 220m repositories</span>
+                                    <span class="gh">ranked 65.3k out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -811,7 +811,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 34.5k out of 220m repositories</span>
+                                    <span class="gh">ranked 34.5k out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1491 stars</div>
                             </div>
@@ -863,7 +863,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2024, 17:03:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2024, 18:03:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
