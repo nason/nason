@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clutchsecurity/federator</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform templates for CI/CD to Cloud federation and Cloud2Cloud IAM federations</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeterminateSystems/determinate</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.</div>
@@ -766,7 +766,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 65.3k out of 223m repositories</span>
+                                    <span class="gh">ranked 65.3k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 195 times</div>
                             </div>
@@ -804,7 +804,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 34.5k out of 223m repositories</span>
+                                    <span class="gh">ranked 34.5k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1491 stars</div>
                             </div>
@@ -856,7 +856,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2024, 20:09:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2024, 21:30:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
