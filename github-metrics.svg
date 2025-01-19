@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arktypeio/arktype</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript's 1:1 validator, optimized from editor to runtime</div>
@@ -652,7 +652,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 536k out of 153m users</span>
+                                    <span class="gh">ranked 536k out of 154m users</span>
                                 </div>
                                 <div class="text">Published 61 public repositories</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 00:04:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 01:04:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
