@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caronc/apprise</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apprise - Push Notifications that work with just about every platform!</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PySpur-Dev/pyspur</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist AI Agent Graph UI</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remsky/Kokoro-FastAPI</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching</div>
@@ -766,7 +766,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 67.2k out of 233m repositories</span>
+                                    <span class="gh">ranked 67.2k out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 194 times</div>
                             </div>
@@ -804,7 +804,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 35.9k out of 233m repositories</span>
+                                    <span class="gh">ranked 35.9k out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -856,7 +856,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 02:03:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 03:04:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
