@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vtuber-plan/olah</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted huggingface mirror service.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/base-ui</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Base UI is an open-source library of accessible, unstyled UI components for React.</div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2025, 21:21:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2025, 22:05:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
