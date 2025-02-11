@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/base-ui</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Base UI is an open-source library of accessible, unstyled UI components for React.</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openstatusHQ/data-table-filters</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A playground for tanstack-table</div>
@@ -772,7 +772,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 67.3k out of 232m repositories</span>
+                                    <span class="gh">ranked 67.3k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 194 times</div>
                             </div>
@@ -810,7 +810,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 35.9k out of 232m repositories</span>
+                                    <span class="gh">ranked 35.9k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2025, 01:03:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 02:03:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
