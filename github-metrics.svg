@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patternhelloworld/url-knife</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with Area-Pattern-based modularity</div>
@@ -772,7 +772,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 67.4k out of 233m repositories</span>
+                                    <span class="gh">ranked 67.4k out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 194 times</div>
                             </div>
@@ -810,7 +810,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 36k out of 233m repositories</span>
+                                    <span class="gh">ranked 36k out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1489 stars</div>
                             </div>
@@ -862,7 +862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2025, 11:03:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2025, 12:03:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
