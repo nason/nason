@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>langfuse/langfuse-terraform-aws</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🪢 Terraform module to deploy Langfuse on AWS</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BerriAI/litellm</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2025, 23:24:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2025, 00:07:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
