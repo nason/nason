@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unnoq/orpc</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Typesafe APIs Made Simple 🪄</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ts-rest/ts-rest</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RPC-like client, contract, and server implementation for a pure REST API</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2025, 14:04:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2025, 15:07:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
