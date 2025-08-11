@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kravetsone/elysia-autoload</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin for Elysia which autoload all routes in directory and code-generate types for Eden</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stanfordnlp/dspy</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DSPy: The framework for programming—not prompting—language models</div>
@@ -442,7 +442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2025, 15:05:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2025, 16:04:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
