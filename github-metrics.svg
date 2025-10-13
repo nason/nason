@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajaykumar4/cluster-template</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for deploying a Talos Kubernetes cluster including Argo for GitOps</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>David-VTUK/turing-pi-automation</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>procinger/turing-pi-v2-cluster</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.</div>
@@ -449,7 +449,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2025, 20:10:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2025, 21:31:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
