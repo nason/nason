@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plexe-ai/plexe</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ Build a machine learning model from a prompt</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Snowflake-Labs/pg_lake</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pg_lake: Postgres with Iceberg and data lake access</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2025, 13:05:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2025, 14:04:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
