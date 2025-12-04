@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepnote/deepnote</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Nov 04 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2025, 15:04:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2025, 16:04:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
