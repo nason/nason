@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fcoury/tsql</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐘 tsql — A modern PostgreSQL manager TUI</div>
@@ -383,7 +383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rswag/rswag</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Seamlessly adds a Swagger to Rails-based API's</div>
@@ -451,7 +451,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2025, 22:31:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2025, 23:16:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
