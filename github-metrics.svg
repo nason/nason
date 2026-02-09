@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrianosela/tsdmg</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tailscale Domain Management Gateway: allow Tailscale nodes to retrieve public (Let's Encrypt) TLS certificates for custom domains.</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2026, 04:18:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2026, 05:21:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
