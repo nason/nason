@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>headroomlabs-ai/headroom</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 07 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harehare/mq</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 07 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">A jq-like Markdown query language for command-line processing</div>
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2026, 01:18:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2026, 03:09:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
